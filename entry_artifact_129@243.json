@@ -1,0 +1,377 @@
+{
+    "DBotScore": [
+        {
+            "Indicator": "localhost.localdomain",
+            "Score": 0,
+            "Type": "hostname",
+            "Vendor": "Splunk",
+            "isTypedIndicator": true
+        }
+    ],
+    "File": [
+        {
+            "EntryID": "94@243",
+            "Extension": "svg",
+            "Info": "image/svg+xml",
+            "MD5": "3fecc9db35d5d2a9e6e71ab4b02d22e5",
+            "Name": "dhl-logo.svg",
+            "SHA1": "628ba2f505b480097445aaf08649a08242bd6847",
+            "SHA256": "362bcaa42090e36611031bec6bdaa0600375ef847092cca195c58d3bae9b4419",
+            "SHA512": "c0d70d0f914d3d9f29366c9886f174580675334ec79ba77158c4cf184075540dd7d25b3f35f7129c1fae764527574daec29f5fb8434817ccbef6951b332cdd5e",
+            "SSDeep": "24:2dzAxLfam1lgE2m/X0TbKErfnfSjOunOQzUtD1OsT5:czA5fv4EB/EiErHCOQois1",
+            "Size": 1603,
+            "Type": "SVG Scalable Vector Graphics image"
+        },
+        {
+            "EntryID": "109@243",
+            "Extension": "png",
+            "Info": "image/png",
+            "MD5": "5dcdad748468b23593223c64ad206f5f",
+            "Name": "png-transparent-dhl-hd-logo.png",
+            "SHA1": "15efc34876991897eb3aea60ecd8b9fd4d7c4f5a",
+            "SHA256": "c25c1c08b8995697fdf34ac848787b35f363f8eb7f8fb2758e81341d55352a3f",
+            "SHA512": "f80b19dbb1ba89a214b4729387de1d02558a5faec536456ec23b05d3da1eb5068a00e88126b664e9fcf9db265b51ef96261ed24d27aaf835b1567f87705e0e39",
+            "SSDeep": "96:sqx9ViBtOVfnXYTIDhjGB1MmGlOC2pYrSFTIiQmnj8RUDH:sqx9VijMRDhjGvOrqDnjmUD",
+            "Size": 4625,
+            "Type": "PNG image data, 920 x 587, 4-bit colormap, non-interlaced"
+        },
+        {
+            "Comment": "Fetched 15 indicators successfully by the query: investigationIDs:\"243\"",
+            "EntryID": "125@243",
+            "Extension": "json",
+            "Info": "application/json",
+            "MD5": "eb937a53554409e6cac6e83583dbae16",
+            "Name": "indicators.json",
+            "SHA1": "9c26505d432f1f900d47b446fa6463fc5b8bc7d7",
+            "SHA256": "f0fb32962098348c6bcf7b40161f5f67a5e0743916e47f7aeb35a9b1379d6410",
+            "SHA512": "b29c4e8667f580c49c9526c8cfd4b0aee4a35ffe549418d7461a3e26c63d765d6f51ab3d4306e189ed5e53d5cbbcdef43ffd3c3624d80fad891c4ae02cd00ed2",
+            "SSDeep": "24:eaqEp2ReRC26b/D2UD2DD2qDQcEQvWE2Ef2lQM2l2AP2nD27P23DQoD2DpsMJ4Xx:eaF8Yo233+EuE6zKakDqMWXx",
+            "Size": 1372,
+            "Type": "JSON data"
+        },
+        {
+            "Comment": "[{\"id\":\"279\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"278\",\"investigationIDs\":[\"173\",\"177\",\"181\",\"172\",\"185\",\"240\",\"117\",\"118\",\"153\",\"15ae1b41-af57-42a9-8a1d-23f61692588b\",\"243\",\"8fb9557a-cd77-4e6c-8395-8a1f7c6c82a1\",\"9eb2e501-2710-469a-85eb-cb8959ad624a\"],\"score\":3},{\"id\":\"276\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"275\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"274\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"273\",\"investigationIDs\":[\"243\"],\"score\":1},{\"id\":\"270\",\"investigationIDs\":[\"eed9da15-8a44-44c7-85a7-79905b336d5d\",\"199\",\"117\",\"243\"],\"score\":1},{\"id\":\"269\",\"investigationIDs\":[\"eed9da15-8a44-44c7-85a7-79905b336d5d\",\"199\",\"117\",\"243\"],\"score\":0},{\"id\":\"268\",\"investigationIDs\":[\"eed9da15-8a44-44c7-85a7-79905b336d5d\",\"172\",\"199\",\"117\",\"118\",\"243\"],\"score\":1},{\"id\":\"267\",\"investigationIDs\":[\"eed9da15-8a44-44c7-85a7-79905b336d5d\",\"172\",\"199\",\"117\",\"118\",\"243\"],\"score\":0},{\"id\":\"266\",\"investigationIDs\":[\"244\",\"248\",\"243\"],\"score\":0},{\"id\":\"256\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"249\",\"investigationIDs\":[\"244\",\"243\"],\"score\":0},{\"id\":\"234\",\"investigationIDs\":[\"243\"],\"score\":1},{\"id\":\"236\",\"investigationIDs\":[\"243\"],\"score\":0},{\"id\":\"235\",\"investigationIDs\":[\"168\",\"169\",\"170\",\"175\",\"176\",\"184\",\"191\",\"193\",\"194\",\"196\",\"197\",\"198\",\"243\"],\"score\":0}]",
+            "EntryID": "127@243",
+            "Extension": "json",
+            "Info": "application/json",
+            "MD5": "79e35775887308fded7f401f9e6b2f41",
+            "Name": "indicators.json",
+            "SHA1": "d5184bdc87eb7f3c6e01c154f36e77f64af255be",
+            "SHA256": "3360b16bd8535eba91b3f3f8e34022136d0ae443a6f7d4e780269eabeef70720",
+            "SHA512": "601047f38066c884ddc757e9c5c8e279a334c48e69643545ffe4cae0160bd4209e2c91d617e673731a08b5578457e01e389201ba69101c62e7e72a9bbb9b1528",
+            "SSDeep": "24:/D2naqEp2ReRC26b/D2UD2DD2qDQcEQvWE2Ef2lQM2l2AP2nD27P23DQoD2DpsM8:SnaF8Yo233+EuE6zKakDqMWXx",
+            "Size": 1428,
+            "Type": "JSON data"
+        }
+    ],
+    "InfoFile": [
+        {
+            "EntryID": "96@243",
+            "Extension": "png (Default Logo)",
+            "Info": "png (Default Logo)",
+            "Name": " amazon.png (Default Logo), ebay.png (Default Logo), facebook.png (Default Logo), gmail.png (Default Logo), google.png (Default Logo), instagram.png (Default Logo), linkedin.png (Default Logo), microsoft.png (Default Logo), outlook.png (Default Logo), paypal.png (Default Logo), paypal_1.png (Default Logo)",
+            "Size": 95407,
+            "Type": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1500x900, components 3"
+        },
+        {
+            "EntryID": "113@243",
+            "Extension": "com)",
+            "Info": "com)",
+            "Name": " amazon.png (Default Logo), ebay.png (Default Logo), facebook.png (Default Logo), gmail.png (Default Logo), google.png (Default Logo), instagram.png (Default Logo), linkedin.png (Default Logo), microsoft.png (Default Logo), outlook.png (Default Logo), paypal.png (Default Logo), paypal_1.png (Default Logo), DHL (Custom Logo, dhl.com)",
+            "Size": 113758,
+            "Type": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1500x900, components 3"
+        }
+    ],
+    "Splunk": {
+        "JobStatus": [
+            {
+                "SID": "1681312270.277",
+                "Status": "NO RESULTS",
+                "TotalResults": 0
+            },
+            {
+                "SID": "1681312293.280",
+                "Status": "DONE",
+                "TotalResults": 5
+            },
+            {
+                "SID": "1681312323.281",
+                "Status": "DONE",
+                "TotalResults": 5
+            }
+        ],
+        "Result": [
+            null,
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:461",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=sssss, avg_dayDiff=\"0.0002199074074074074\"",
+                "_serial": "0",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "linecount": "1",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:453",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=qqqqq, avg_dayDiff=0",
+                "_serial": "1",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "linecount": "1",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:445",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=ppppp, avg_dayDiff=0",
+                "_serial": "2",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "linecount": "1",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:437",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=ooooo, avg_dayDiff=0",
+                "_serial": "3",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "linecount": "1",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:429",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=nnnnn, avg_dayDiff=0",
+                "_serial": "4",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "linecount": "1",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:461",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=sssss, avg_dayDiff=\"0.0002199074074074074\"",
+                "_serial": "0",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "avg_dayDiff": "0.0002199074074074074",
+                "date_hour": "16",
+                "date_mday": "12",
+                "date_minute": "50",
+                "date_month": "april",
+                "date_second": "7",
+                "date_wday": "wednesday",
+                "date_year": "2023",
+                "date_zone": "120",
+                "dest": "sssss",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "info_max_time": "1681311000.000",
+                "info_search_time": "1681311007.976",
+                "linecount": "1",
+                "search_name": "Endpoint - Average Infection Length - Summary Gen",
+                "search_now": "1681311000.000",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain",
+                "timeendpos": "25",
+                "timestartpos": "0"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:453",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=qqqqq, avg_dayDiff=0",
+                "_serial": "1",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "avg_dayDiff": "0",
+                "date_hour": "16",
+                "date_mday": "12",
+                "date_minute": "50",
+                "date_month": "april",
+                "date_second": "7",
+                "date_wday": "wednesday",
+                "date_year": "2023",
+                "date_zone": "120",
+                "dest": "qqqqq",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "info_max_time": "1681311000.000",
+                "info_search_time": "1681311007.976",
+                "linecount": "1",
+                "search_name": "Endpoint - Average Infection Length - Summary Gen",
+                "search_now": "1681311000.000",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain",
+                "timeendpos": "25",
+                "timestartpos": "0"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:445",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=ppppp, avg_dayDiff=0",
+                "_serial": "2",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "avg_dayDiff": "0",
+                "date_hour": "16",
+                "date_mday": "12",
+                "date_minute": "50",
+                "date_month": "april",
+                "date_second": "7",
+                "date_wday": "wednesday",
+                "date_year": "2023",
+                "date_zone": "120",
+                "dest": "ppppp",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "info_max_time": "1681311000.000",
+                "info_search_time": "1681311007.976",
+                "linecount": "1",
+                "search_name": "Endpoint - Average Infection Length - Summary Gen",
+                "search_now": "1681311000.000",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain",
+                "timeendpos": "25",
+                "timestartpos": "0"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:437",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=ooooo, avg_dayDiff=0",
+                "_serial": "3",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "avg_dayDiff": "0",
+                "date_hour": "16",
+                "date_mday": "12",
+                "date_minute": "50",
+                "date_month": "april",
+                "date_second": "7",
+                "date_wday": "wednesday",
+                "date_year": "2023",
+                "date_zone": "120",
+                "dest": "ooooo",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "info_max_time": "1681311000.000",
+                "info_search_time": "1681311007.976",
+                "linecount": "1",
+                "search_name": "Endpoint - Average Infection Length - Summary Gen",
+                "search_now": "1681311000.000",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain",
+                "timeendpos": "25",
+                "timestartpos": "0"
+            },
+            {
+                "_bkt": "endpoint_summary~27~338216E3-1E3F-48BB-ADE1-FA2E4952DD3E",
+                "_cd": "27:429",
+                "_indextime": "1681311008",
+                "_raw": "04/12/2023 16:50:07 +0200, search_name=\"Endpoint - Average Infection Length - Summary Gen\", search_now=1681311000.000, info_max_time=1681311000.000, info_search_time=1681311007.976, dest=nnnnn, avg_dayDiff=0",
+                "_serial": "4",
+                "_si": [
+                    "localhost.localdomain",
+                    "endpoint_summary"
+                ],
+                "_sourcetype": "stash",
+                "_time": "2023-04-12T16:50:07.000+02:00",
+                "avg_dayDiff": "0",
+                "date_hour": "16",
+                "date_mday": "12",
+                "date_minute": "50",
+                "date_month": "april",
+                "date_second": "7",
+                "date_wday": "wednesday",
+                "date_year": "2023",
+                "date_zone": "120",
+                "dest": "nnnnn",
+                "host": "localhost.localdomain",
+                "index": "endpoint_summary",
+                "info_max_time": "1681311000.000",
+                "info_search_time": "1681311007.976",
+                "linecount": "1",
+                "search_name": "Endpoint - Average Infection Length - Summary Gen",
+                "search_now": "1681311000.000",
+                "source": "Endpoint - Average Infection Length - Summary Gen",
+                "sourcetype": "stash",
+                "splunk_server": "localhost.localdomain",
+                "timeendpos": "25",
+                "timestartpos": "0"
+            }
+        ]
+    }
+}
